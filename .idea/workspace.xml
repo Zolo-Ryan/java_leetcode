@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ca9335c2-8189-4406-9fb7-3b8104254e61" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DijkstraAlgorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q1007MinimumDominoRotationsForEqualRow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q1109CorporateFlightBookings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q1128NumberOfEquivalentDominoPairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q1358NumberOfSubstringsContainingAllThreeCharacters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q1415TheKthLexicoStringAllHappyStringsOfLengthN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q1524NSOddSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q1550ThreeConsecutiveOdds.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q1674MinimumMovesToMakeArrayComplementary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q1749MAXAbsSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q1780CheckIfSumOfPowersOfThree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q1863SumOfAllSubsetXORTotals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q2044CountNumberOfMaximumBitwiseORSubsets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q2071MaximumNumberOfTasksYouCanAssign.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q2226MaximumCandiesAllocatedToKChildren.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q2302CountSubarraysWithScoreLessThanK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q2375ConstructSmallestNumberFromDIString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q2379MinRecToGetKConseBlackBlocks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q2401LongestNiceSubarray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q2444CountSubArraysWithFixedBounds.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q2460ApplyOperationsToArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q2529MAXCOUNTOfPositiveIntegerAndNegativeInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q2537CountNumberOfGoodSubarrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q2560HouseRobberIV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q2563CountTheNumberOfFairPairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q2570MergeTwo2d.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q257BinaryTreePaths.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q2799CountCompleteSubArraysInAArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q2962CountSubarraysWhereMaxElementAppearsAtLeastKTimes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q29DivideTwoIntegers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q3068FindMaxSumOfNodeValues.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q3191MinOperationsToMakeBinaryArrayElementsEqualToOneI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q3208AlternatingGroupsII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q3211GenerateBinaryStringsWithoutAdjacentZeros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q3306CountOfSubstringsContainingEveryVowelAndKConstants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q3341FindMinimumTimeToReachLastRoomI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q3342FindMinTimeToReachLastRoomII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q3355ZeroArrayTransformationI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q3356ZeroArrayTransformationII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q3362ZeroArrayTransformationIII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q38CountAndSay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q401BinaryWatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q403FrogJump.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q5LongestPalindromicSubstring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q77Combinations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q790DominoAndTrominoTiling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q838PushDominoes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q875KokoEatingBananas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TemplateClass.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2tdmrsnpyxnFAYDfIcELitXVnF9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Q1524NSOddSum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q1749MAXAbsSum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q2226MaximumCandiesAllocatedToKChildren.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q2302CountSubarraysWithScoreLessThanK.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q2523ClosestPrimeNumbersInRange.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q2537CountNumberOfGoodSubarrays.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q3341FindMinimumTimeToReachLastRoomI.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q3343CountNumberOfBalancedPermutations.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q401BinaryWatch.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q403FrogJump.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q5LongestPalindromicSubstring.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q77Combinations.executor&quot;: &quot;Run&quot;,
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ca9335c2-8189-4406-9fb7-3b8104254e61" name="Changes" comment="" />
+      <created>1740690529083</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1740690529083</updated>
+    </task>
+    <servers />
+  </component>
+</project>
